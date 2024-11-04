@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt",
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt",
             "name": "自用線路1-TV"
         },
         {
@@ -13,7 +13,7 @@
             "name": "☃放牛娃KTV線路-TV〔20240529〕"
         },
         {
-            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/tvbox3.json",
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/SSM0415/apptest/main/tvbox3.json",
             "name": "發現線路2-TV〔20240410〕"
         },  
         {
@@ -33,11 +33,11 @@
             "name": "自用線路1-AV"
         },
         {
-            "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.json",
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.json",
             "name": "自用線路2-AV"
         },
         {
-            "url": "https://raw.githubusercontent.com/yescopys/box/main/ah/18cn.json",
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/yescopys/box/main/ah/18cn.json",
             "name": "自用線路3-AV"
         },
         {
@@ -45,7 +45,7 @@
             "name": "更新中3-18+"
         },
         {
-            "url": "https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/18+點播.txt",
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/18+點播.txt",
             "name": "更新中-AV"
         }
   
