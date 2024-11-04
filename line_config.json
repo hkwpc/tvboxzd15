@@ -1,6 +1,6 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt",
+        "url": "https://ghp.ci/https://raw.githubusercontent.com/SSM0415/apptest/main/TVbox2.txt",
         "title": "自用線路1-TV",
         "time": "2023-12-12"
     },
@@ -16,19 +16,19 @@
  
     },
     {
-        "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt",
+        "url": "https://ghp.ci/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt",
         "title": "自用線路1-AV",
         "time": "2023-12-12"
  
     },
     {
-        "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.txt",
+        "url": "https://ghp.ci/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x1.txt",
         "title": "自用線路2-AV",
         "time": "2024-03-19"
  
     },
     {
-        "url": "https://raw.githubusercontent.com/yescopys/box/825da80f57a48f181c0a91d67ea1ae2bec298126/ah/18cn.json",
+        "url": "https://ghp.ci/https://raw.githubusercontent.com/yescopys/box/825da80f57a48f181c0a91d67ea1ae2bec298126/ah/18cn.json",
         "title": "自用線路3-AV",
         "time": "2024-03-19"
  
@@ -40,13 +40,13 @@
  
     },
     {
-        "url": "https://raw.githubusercontent.com/ctt49401/hacc/483c7110c01801dfd6bb30facc7fd662a7af65dc/H/h",
+        "url": "https://ghp.ci/https://raw.githubusercontent.com/ctt49401/hacc/483c7110c01801dfd6bb30facc7fd662a7af65dc/H/h",
         "title": "更新中3-18+",
         "time": "2022-11-10 "
  
     },
     {
-        "url": "https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/18+點播.txt",
+        "url": "https://ghp.ci/https://raw.githubusercontent.com/tw94015/tw94015.github.io/main/18+點播.txt",
         "title": "更新中3-AV",
         "time": "2022-11-10 "
  
